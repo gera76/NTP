@@ -1,0 +1,15 @@
+C:\Users\Dimitrije\Desktop\test\algebarski alogirtmi\bin\Debug\net6.0\algebarski alogirtmi.exe
+C:\Users\Dimitrije\Desktop\test\algebarski alogirtmi\bin\Debug\net6.0\algebarski alogirtmi.deps.json
+C:\Users\Dimitrije\Desktop\test\algebarski alogirtmi\bin\Debug\net6.0\algebarski alogirtmi.runtimeconfig.json
+C:\Users\Dimitrije\Desktop\test\algebarski alogirtmi\bin\Debug\net6.0\algebarski alogirtmi.dll
+C:\Users\Dimitrije\Desktop\test\algebarski alogirtmi\bin\Debug\net6.0\algebarski alogirtmi.pdb
+C:\Users\Dimitrije\Desktop\test\algebarski alogirtmi\obj\Debug\net6.0\algebarski alogirtmi.csproj.AssemblyReference.cache
+C:\Users\Dimitrije\Desktop\test\algebarski alogirtmi\obj\Debug\net6.0\algebarski alogirtmi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimitrije\Desktop\test\algebarski alogirtmi\obj\Debug\net6.0\algebarski alogirtmi.AssemblyInfoInputs.cache
+C:\Users\Dimitrije\Desktop\test\algebarski alogirtmi\obj\Debug\net6.0\algebarski alogirtmi.AssemblyInfo.cs
+C:\Users\Dimitrije\Desktop\test\algebarski alogirtmi\obj\Debug\net6.0\algebarski alogirtmi.csproj.CoreCompileInputs.cache
+C:\Users\Dimitrije\Desktop\test\algebarski alogirtmi\obj\Debug\net6.0\algebarski alogirtmi.dll
+C:\Users\Dimitrije\Desktop\test\algebarski alogirtmi\obj\Debug\net6.0\refint\algebarski alogirtmi.dll
+C:\Users\Dimitrije\Desktop\test\algebarski alogirtmi\obj\Debug\net6.0\algebarski alogirtmi.pdb
+C:\Users\Dimitrije\Desktop\test\algebarski alogirtmi\obj\Debug\net6.0\algebarski alogirtmi.genruntimeconfig.cache
+C:\Users\Dimitrije\Desktop\test\algebarski alogirtmi\obj\Debug\net6.0\ref\algebarski alogirtmi.dll
